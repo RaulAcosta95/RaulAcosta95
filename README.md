@@ -2,8 +2,35 @@
 - 👀 I’m interested in front end developing
 - 🌱 I’m currently learning web components
 - 💞️ I’m looking to collaborate in amazing apps
-- 📫 You can reach me seding me a correo to raulacostaservicio@hotmail.com
-
+- 📫 You can reach me seding me a mail to raulacostaservicio@hotmail.com
+- 
+- My Hard Skills are: 
+- -Responsive design
+- -HTML
+- -CSS
+- -JavaScript
+- -Web Components
+- -Data Bases
+- -AJAX
+- -DOM Manipulation
+- -Reactive Components
+- -Git and Github
+- -Bootstrap
+- -Sass
+- -React.js
+- -JQuery
+- 
+- My Soft Skills are:
+- -English
+- -Confidence
+- -Fast Learning
+- -Leadership
+- -Team Colaboration
+- -Ethic
+- -Emotional Inteligence
+- -Adaptation to Change
+- -Good Humor
+- Ready to colaborate in amazing software that can contribuite value to humanity
 <!---
 RaulAcosta95/RaulAcosta95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
